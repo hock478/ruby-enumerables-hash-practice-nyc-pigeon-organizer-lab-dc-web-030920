@@ -4,8 +4,8 @@ def nyc_pigeon_organizer(data)
   i = 0
   while i < data[0].count do
     pigeon_list[data[0][i]] = {
-      :color => []
-      :gender => []
+      :color => [],
+      :gender => [],
       :lives => 
     }
     i += 1
