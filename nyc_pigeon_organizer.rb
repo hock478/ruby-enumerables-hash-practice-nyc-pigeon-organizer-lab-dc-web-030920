@@ -4,13 +4,17 @@ def nyc_pigeon_organizer(data)
   
   
   data.each {|key, value|
-   value.each{val, names|
-   names.each{
+   value.each{|val, names|
+   names.each{ |name|
+   
+   
+   
+   
+   
      
      
      
-     
-     
+   }
      
    } 
   
