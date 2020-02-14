@@ -7,7 +7,8 @@ def nyc_pigeon_organizer(data)
    value.each{|val, names|
    names.each{ |name|
    
-   
+   if !pigeon_list[name]
+     
    
    
    
