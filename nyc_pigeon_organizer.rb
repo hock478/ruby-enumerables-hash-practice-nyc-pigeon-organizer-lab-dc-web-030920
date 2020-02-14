@@ -3,8 +3,18 @@ def nyc_pigeon_organizer(data)
   pigeon_list = {}
   
   
-  data.each {|key, value| 
-  value.each{
+  data.each {|key, value|
+   value.each{val, names|
+   
+     
+     
+     
+     
+     
+     
+   } 
+  
+  }
  
   return pigeon_list
 end
