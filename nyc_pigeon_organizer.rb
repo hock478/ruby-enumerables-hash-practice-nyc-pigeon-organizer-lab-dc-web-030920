@@ -6,7 +6,7 @@ def nyc_pigeon_organizer(data)
     pigeon_list[data[0][i]] = {
       :color => [],
       :gender => [],
-      :lives => 
+      :lives => []
     }
     i += 1
   end
