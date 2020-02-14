@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
     pigeon_list[data[0][i]] = {}
     i += 1
   end
-   pp pigeon_list
+ 
 end
