@@ -5,5 +5,5 @@ def nyc_pigeon_organizer(data)
   while i < data[0].count do
     pigeon_list[data[0][i]] = {}
   end
-  pigeon_list
+   pp pigeon_list
 end
