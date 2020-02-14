@@ -10,6 +10,7 @@ def nyc_pigeon_organizer(data)
     }
     i += 1
   end
+  while ind
  
   return pigeon_list
 end
