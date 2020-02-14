@@ -9,11 +9,13 @@ def nyc_pigeon_organizer(data)
    
    if !pigeon_list[name]
      pigeon_list[name] = {}
-   else
-     pigeon_list[name][key] = []
-   end
+  
+     
    
-   if pigeon_list[name][key]
+   if !pigeon_list[name][key]
+     pigeon_list[name][key] = []
+     
+   
    
    
      
